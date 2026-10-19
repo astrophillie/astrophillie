@@ -1,4 +1,4 @@
-# Hi, I'm indie
+# Hi, 
 
 ### Learning data science through Python, data analysis, and machine learning
 
