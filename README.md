@@ -8,6 +8,8 @@ I'm building practical projects as I work toward a career in data science. I use
 
 | Project | Question and approach | Tools |
 | --- | --- | --- |
+| [Steam Genre Forecast 2027](https://github.com/astrophillie/steam-genre-forecast) · [Live demo](https://steam-genre-forecast.netlify.app/) | Compare time-series baselines and forecast activity through 2027 across five Steam categories using a fixed cohort of 519 games. | Python, pandas, SQLite, JavaScript |
+| [Honkai: Star Rail character classifier](https://github.com/astrophillie/hsr-character-classifier) | Adapt ResNet18 to a small image dataset, compare feature extraction and fine-tuning, and inspect predictions on characters outside the training classes. | Python, PyTorch, torchvision, Jupyter |
 | [Customer churn](https://github.com/astrophillie/customer-churn) | Identify customers at risk of leaving using logistic regression, validation-based threshold selection, and a retrospective customer ranking. | Python, pandas, scikit-learn, Matplotlib |
 | [Spotify popularity analysis](https://github.com/astrophillie/spotify-popularity-analysis) | Explore track popularity, genres, and audio features through data cleaning, descriptive statistics, and visualizations. | Python, pandas, Matplotlib, Seaborn |
 | [Medical insurance regression](https://github.com/astrophillie/medical-insurance-regression) | Compare linear and ridge regression for predicting insurance charges, with separate training, validation, and test sets. | Python, pandas, scikit-learn |
